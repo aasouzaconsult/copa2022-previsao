@@ -1,4 +1,4 @@
-# copa2022-previsao
+# Copa 2022 - Previsao
 
 📖 Na teoria da probabilidade e na estatística, a distribuição de Poisson é uma distribuição de probabilidade de variável aleatória discreta que expressa a probabilidade de uma série de eventos ocorrer num certo período de tempo se estes eventos ocorrem independentemente de quando ocorreu o último evento.
 
