@@ -12,3 +12,5 @@ A distribuição de Poisson representa um modelo probabilístico adequado para o
 - Número de partículas emitidas por uma fonte de material radioativo por unidade de tempo.
 
 Confiram o exemplo utilizado para previsão da Copa 2022! Excelente estudo!!! ⚽🔮🇧🇷
+
+Por Frank Andrade ([medium](https://frank-andrade.medium.com/))
